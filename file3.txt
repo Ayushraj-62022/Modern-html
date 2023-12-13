@@ -1,0 +1,15 @@
+Accessibility in web development : Accessibility in web development refers to designing and coding websites in a way that ensures people with disabilities can perceive , understand ,
+navigate, and interact with digital content effectively . It involves making web content inclusive and usuable for everyone ,
+ regardlessof their abilities.
+
+ A good foundation of accessibility for people with cognitive impairments includes:
+
+--Delivering content in more than one way, such as by text-to-speech or by video.
+--Easily understood content, such as text written using plain-language standards.
+--Focusing attention on important content.
+--Minimizing distractions, such as unnecessary content or advertisements.
+--Consistent webpage layout and navigation.
+--Familiar elements, such as underlined links blue when not visited and purple when visited.
+--Dividing processes into logical, essential steps with progress indicators.
+--Website authentication as easy as possible without compromising security.
+--Making forms easy to complete, such as with clear error messages and simple error recovery.

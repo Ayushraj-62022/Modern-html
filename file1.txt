@@ -1,0 +1,17 @@
+1.  List out the features of HTML5.
+Ans-- Improved multimedia support --HTML5 allows  for the integration of multimedia elements such as audio, and video directly web pages without 
+the need for plugins like flash .
+   -- Canavas element -- HTML5 introduced the canavas element which allow for dynamic, interactive graphics to be createdc and
+     manipiuated with in web page.
+     HTML stands for hyper text mark up language for creating web pages and web applications.HTML5 is the 5th version of HTML
+     --INTRO of audio and video tag :
+                        Audio and Video tg are the two major addition to HTML5. It allows developers to embed a video or audio on their websites.
+    -- Vector graphics : 
+    this is anerw additiuon to the revised version which has hugely impacted the use of Adobe flash in websites. It can be used to draw graphics with various shapes
+    and colors via scripting usually js.
+---Geolocation API-- HTML5 provides an API for obtsaining the user`s location , enabling web application to offer location -based services.
+Local storage-- HTML5 introduced the local storage API, which allows for the storage of data on the user`s device improving  performance and reducing the need for round 
+trips to the server.Accessibility improvements--HTML5 provides better suppourt for accessibility , including the ability to provide
+ alternative text for images and improved suppourt for screen readers.
+ --NEW structural elements --HTML5 introduced new semantic elements such as header,footer,nav, and article that maskes it easier to structure 
+ and organize content on a web page.

@@ -1,0 +1,29 @@
+6 tips to improve web accessibility
+1. Properly use HTML markup
+Whether or not a web designer manually enters HTML, it’s important to place headers in an order 
+that makes sense. Screen readers that articulate information on a web page use headers as guideposts.
+
+2.Include succinct, descriptive image alt text
+    Alt text is often forgotten when images are added to web pages. After all, most people only use alt text when searching for images in a search engine or
+     conducting a reverse image search.
+
+3.Consider CAPTCHA options
+    CAPTCHAs can be especially confusing for those with dyslexia or some cognitive difficulties. Some CAPTCHA images don’t take into
+     consideration people with colorblindness, who may not be able to differentiate the letters from the background. CAPTCHA images are also 
+     unreadable by screen readers, but adding the correct answer to alt text on the page could defeat the purpose of the test.
+
+4.Make video content accessible
+        One of the most notable hurdles for people with auditory impairment is a lack of closed captioning. Videos without closed captions can be 
+        completely inaccessible for those with a hearing deficiency. For those uploading a video to a platform like YouTube or Facebook, it 
+        can be easy to rely on the auto-generated captions, but they’re often inaccurate and don’t provide contextual captions for music or
+         sound effects.
+
+5.Choose accessible color choices
+        Typically, color choices for websites involve whatever is trendiest in UX. This usually means a whole lot of unoffensive, definitely 
+        original blue. But color is an important consideration in web accessibility. In particular, designers may want to consider the needs of
+         users with color blindness.
+
+6.Ensure the website can be navigated using only a keyboard
+        Trendy design choices include navigation bars or options that only appear when a cursor hovers over a certain button. Often, highlighting 
+        a designated dropdown button using the keyboard still isn’t enough to activate the dropdown. This means keyboard-only users have no way
+         to access those webpage options.
